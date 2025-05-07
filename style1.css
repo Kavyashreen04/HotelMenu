@@ -48,6 +48,9 @@
     border: 5px solid black;
     margin: 10px;
     border-radius: 20px;
+    padding:10px;
+    text-align:justify;
+    background-color:#d2dae5;
     
 }
 .image{
