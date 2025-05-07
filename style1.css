@@ -1,0 +1,100 @@
+.home a{
+    font-size: 50px;
+    color: brown;
+    text-decoration:none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 5px;
+    background-color: bisque;
+    width:500px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.body{
+    background-image: url(https://media.istockphoto.com/id/589135154/photo/herbs-and-spices-over-black-stone-background.webp?a=1&b=1&s=612x612&w=0&k=20&c=pnSwlU8n-38HvUsCOE_r3OYklT1O1WAyijrIMp2g9_g=);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px;
+    
+}
+.hi{
+    font-size: 50px;
+    color: azure;
+    font-style: italic;
+    text-transform: capitalize;
+}
+.break a{
+    text-decoration: none;
+    color:white;
+    text-transform: capitalize;
+    transition: 2s;
+
+}
+.break{
+    background-color: black;
+    
+}
+
+.h1{
+    font-size: 50px;
+    font-style: italic;
+    text-transform: uppercase;
+    text-decoration: underline;
+    color:saddlebrown;
+}
+.d1{
+    width: 400px;
+    border: 5px solid black;
+    margin: 10px;
+    border-radius: 20px;
+    
+}
+.image{
+    height: 350px;
+    width: 350px;
+    margin: 10px;
+}
+.d1 h1{
+text-transform: uppercase;
+text-align: center;
+}
+
+.d1 h3{
+    text-align: center;
+    font-size: 30px;
+}
+body{
+    background-image: url(https://media.istockphoto.com/id/2154491908/photo/white-gray-wave-pixelated-pattern-abstract-ombre-silver-background-pixel-spotlight-wrinkled.webp?a=1&b=1&s=612x612&w=0&k=20&c=eLhjb2tRvdbWHS8NWCdruSEKnmOgL6zcDloYZFf7b28=);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.home a:hover{
+    background-color:aquamarine;
+    color: blue;
+}
+
+.hi:hover{
+    background-color: brown;
+    color: aqua;
+}
+#display li{
+    color:white;
+    list-style: none;
+
+}
+#display{
+    display: flex;
+    gap: 20px;
+}
+#display1{
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    margin: 20px;
+}
+.display2{
+    display: flex;
+    flex-wrap: wrap;
+}
+
