@@ -44,7 +44,7 @@
     text-transform: uppercase;
     text-decoration: underline;
     color:saddlebrown;
-    position: fixed;
+    position: sticky;
     top: 0;
 }
 .d1{
