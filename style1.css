@@ -3,13 +3,16 @@
     color: rgb(222, 97, 97);
     text-decoration:none;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin: 5px;
     background-color: bisque;
-    width:500px;
+    width:90%;
+    max-width: 500px;
     border-radius: 20px;
     padding: 10px;
     text-transform: capitalize;
     font-style: italic;
+    display: block;
+    margin: 10px auto;
+    text-align: center;
 }
 .body{
     background-image: url(https://media.istockphoto.com/id/589135154/photo/herbs-and-spices-over-black-stone-background.webp?a=1&b=1&s=612x612&w=0&k=20&c=pnSwlU8n-38HvUsCOE_r3OYklT1O1WAyijrIMp2g9_g=);
@@ -31,10 +34,17 @@
     color:white;
     text-transform: capitalize;
     transition: 2s;
+    flex: 1 1 40%;
+    text-align: center;
 
 }
 .break{
     background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 10px;
+    gap: 10px;
     
 }
 
@@ -52,9 +62,10 @@
     flex-wrap: wrap;
 }
 .d1{
-    width: 400px;
+    width:90%;
+    max-width: 400px;
     border: 5px solid black;
-    margin: 10px;
+    margin: 10px auto;
     border-radius: 20px;
     padding:10px;
     text-align:justify;
@@ -62,8 +73,8 @@
     
 }
 .image{
-    height: 350px;
-    width: 350px;
+    height:auto;
+    width: 100%;
     margin: 10px;
 }
 .d1 h1{
