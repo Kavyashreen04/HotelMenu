@@ -10,9 +10,14 @@
     padding: 10px;
     text-transform: capitalize;
     font-style: italic;
+<<<<<<< Updated upstream
     display: block;
     margin: 10px auto;
     text-align: center;
+=======
+    position: sticky;
+    top: 0;
+>>>>>>> Stashed changes
 }
 .body{
     background-image: url(https://media.istockphoto.com/id/589135154/photo/herbs-and-spices-over-black-stone-background.webp?a=1&b=1&s=612x612&w=0&k=20&c=pnSwlU8n-38HvUsCOE_r3OYklT1O1WAyijrIMp2g9_g=);
