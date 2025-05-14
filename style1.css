@@ -121,4 +121,7 @@ body{
     display: flex;
     flex-wrap: wrap;
 }
-
+.carousel-inner{
+    width: 300px;
+    height:300px
+}
