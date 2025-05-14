@@ -23,11 +23,25 @@
     padding: 10px;
     
 }
+.hotel{
+ color:crimson   ;
+ margin-top: 20px;
+ margin-left: 20px;
+}
+
+.carousel-inner{
+
+    margin-top: 30px;
+    width: 300px;
+}
+
 .hi{
     font-size: 50px;
     color: azure;
     font-style: italic;
     text-transform: capitalize;
+    margin-left: 30px;
+    margin-top: 20px;
 }
 .break a{
     text-decoration: none;
